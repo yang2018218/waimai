@@ -1,0 +1,52 @@
+{
+  "data": {
+    "address": "河南省郑州市中原区林山寨街道中原中路郑州市人民政府",
+    "city": "郑州市",
+    "city_id": 32,
+    "district_id": 5496,
+    "geohash": "ww0v9te1kuc7",
+    "latitude": 34.747506,
+    "longitude": 113.625024,
+    "name": "中原中路郑州市人民政府"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "cache-control": "no-cache",
+    "connection": "close",
+    "content-encoding": "gzip",
+    "content-length": "220",
+    "content-type": "application/json; charset=UTF-8",
+    "date": "Wed, 21 Aug 2019 06:18:36 GMT",
+    "eagleeye-traceid": "0bc13af615663683164336879e78a0",
+    "server": "Tengine/Aserver",
+    "strict-transport-security": "max-age=31536000, max-age=0",
+    "timing-allow-origin": "*",
+    "vary": "Origin, Origin, Accept-Encoding",
+    "x-echo-requestid": "6ECB693FDD5B46858E11D9B17042D76C|1566368316435",
+    "x-powered-by": "httpizza-go/1.2.6/5feabc4e1964771b18b46383ebfc82ae6872ffd0",
+    "x-sopush-cache-status": "skip"
+  },
+  "config": {
+    "url": "/eleapi/restapi/bgs/poi/reverse_geo_coding",
+    "method": "get",
+    "params": {
+      "latitude": 34.74725,
+      "longitude": 113.624931
+    },
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1
+  },
+  "request": {}
+}

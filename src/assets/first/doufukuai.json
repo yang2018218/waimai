@@ -1,0 +1,45 @@
+{
+  "errorNo": 0,
+  "errorMsg": "Success",
+  "timestamp": 1570369068,
+  "data": {
+    "list": [
+      {
+        "title": "\u7279\u4ef7\u7968\u54c1",
+        "titleColor": "#ff3333",
+        "desc": "\u7279\u60e0\u7b49\u4f60\u6765",
+        "descColor": "#ff9999",
+        "imageUrl": "https:\/\/gss0.baidu.com\/70cFfyinKgQFm2e88IuM_a\/bainuo_cmovie\/pic\/item\/e1fe9925bc315c6071ce108585b1cb1349547704.jpg",
+        "webappUrl": "https:\/\/yc.baidu.com\/piaolisttpl?rank=discount&rankName=%E6%8C%89%E6%8A%98%E6%89%A3",
+        "naUrl": "bainuo:\/\/component?compid=piao&comppage=piaolist&rank=discount&rankName=\u6309\u6298\u6263"
+      },
+      {
+        "title": "\u9886\u5238\u7acb\u51cf",
+        "titleColor": "#333333",
+        "desc": "\u5317\u4eac\u6587\u60e0\u5238",
+        "descColor": "#999999",
+        "imageUrl": "https:\/\/gss0.baidu.com\/70cFfyinKgQFm2e88IuM_a\/bainuo_cmovie\/pic\/item\/bba1cd11728b4710b3f46764cdcec3fdfd0323ba.gif",
+        "webappUrl": "https:\/\/mdianying.baidu.com\/cinema\/wenhui?page=new&sub_channel=nuomi_yanchu_doufukuai",
+        "naUrl": "bainuo:\/\/component?url=https%3a%2f%2fmdianying.baidu.com%2fcinema%2fwenhui%3fpage%3dnew%26sub_channel%3dnuomi_yanchu_doufukuai&hasshare=1&shareurl=https%3a%2f%2fmdianying.baidu.com%2fcinema%2fwenhui%3fpage%3dnew%26sub_channel%3dnuomi_yanchu_doufukuai_share1"
+      },
+      {
+        "title": "\u6f14\u51fa\u65e5\u5386",
+        "titleColor": "#333333",
+        "desc": "\u7eaa\u5ff5\u65e5\u6709\u6211",
+        "descColor": "#999999",
+        "imageUrl": "https:\/\/gss0.baidu.com\/70cFfyinKgQFm2e88IuM_a\/bainuo_cmovie\/pic\/item\/0e2442a7d933c8956b40850cd91373f08202008e.jpg",
+        "webappUrl": "https:\/\/yc.baidu.com\/calendartpl",
+        "naUrl": "bainuo:\/\/component?compid=piao&comppage=calendar"
+      },
+      {
+        "title": "\u7cbe\u5f69\u5267\u9662",
+        "titleColor": "#ff3333",
+        "desc": "\u573a\u9986\u4efb\u6211\u884c",
+        "descColor": "#ff9999",
+        "imageUrl": "https:\/\/gss0.baidu.com\/70cFfyinKgQFm2e88IuM_a\/bainuo_cmovie\/pic\/item\/5243fbf2b21193139fc1e4c76d380cd790238dc2.jpg",
+        "webappUrl": "https:\/\/yc.baidu.com\/stadiumlisttpl",
+        "naUrl": "bainuo:\/\/component?compid=piao&comppage=stadiumlist"
+      }
+    ]
+  }
+}

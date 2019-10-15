@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "title": "攀登者 ",
+    "geshi": "IMAX 2D",
+    "title_img": "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=e598d98b336d55fbd1cb7e740c4b242f/d8f9d72a6059252d1725a8513a9b033b5bb5b9b1.jpg",
+    "pingfen": "4.9",
+    "info": "超演员阵容 书珠峰奇迹",
+    "leixing": "剧情,冒险",
+    "time": "125",
+    "shangying": "2019-09-30",
+    "live": [
+      {
+        "img_1": "./../assets/jpg/心.png",
+        "lives": "想看"
+      },
+      {
+        "img_1": "./../assets/jpg/星.png",
+        "lives": "评分"
+      },
+      {
+        "img_1": "./../assets/jpg/微信.png",
+        "lives": "饭圈"
+      }
+    ],
+    "introduce": "《攀登者》是一部爱国题材的电影，这部电影是以六十年代我国登山运动员攀登珠峰的故事改编，它主要讲的是中国和尼泊尔争珠峰主权，双方存在了不少争议，在一系列谈判中可以说中国登上队是“逼上珠峰”的！于是，中国人向珠峰发起挑战，成为人类历史上第一次从北坡登上珠峰。该剧由徐克监制、李仁港执导、阿来编剧，吴京、章子怡、张译、井柏然、胡歌、王景春、何琳、陈龙、曲尼次仁、拉旺罗布、刘小锋、多布杰主演，成龙友情出演。该剧定档于2019年9月30日，大家敬请期待！",
+    "movev_img": [
+      "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=e598d98b336d55fbd1cb7e740c4b242f/d8f9d72a6059252d1725a8513a9b033b5bb5b9b1.jpg",
+      "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=44c8d60778c6a7efad2ba0749c93c434/aa64034f78f0f7360c1a3fd90455b319eac41305.jpg","https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=0eba79d58d8ba61ecbe3c07d205dfc6f/86d6277f9e2f070897b7551fe624b899a901f27b.jpg","https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=f8514044d433c895b2739029b07a1895/b8014a90f603738d5e023bf1be1bb051f919ec9d.jpg"
+    ],
+    "yanyuan": ["https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/h%3D160/sign=1c89af37cb5c10383b7ecac48210931c/9825bc315c6034a8ab0617acc613495409237633.jpg",
+      "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike933%2C5%2C5%2C933%2C330/sign=0e65242e74f0f736ccf344536b3cd87c/1ad5ad6eddc451da24ca1ebabafd5266d01632a6.jpg",
+      "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=58611dbbf8246b606f03ba268a917129/cb8065380cd7912371b5d79ca3345982b3b78085.jpg",
+      "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=9d81b5817fc6a7efad2ba0749c93c434/d009b3de9c82d158b62f49ef890a19d8bc3e423a.jpg"
+    ]
+  }
+}

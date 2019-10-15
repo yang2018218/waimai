@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ .el-carousel__indicators--outside{
+  position: absolute;
+  left: 37%;
+}
+.toutiao .el-carousel__indicators--outside li{
+  color: transparent;
+  background-color: transparent;
+}
+.toutiao .el-tabs__nav-next, .el-tabs__nav-prev{
+  color: transparent;
+}
+.jiudian .el-tabs--card > .el-tabs__header .el-tabs__item{
+  border-radius-bottomleft: 5px;
+}
+ .jiudian  .is-active{
+   background-color: #fff;
+   font-size: 15px;
+   font-weight: 700;
+ }
+.jiudian .el-tabs--top.el-tabs--card > .el-tabs__header .el-tabs__item:nth-child(1){
+  border-top-right-radius: 10px;
+}
+.jiudian .el-tabs--top.el-tabs--card > .el-tabs__header .el-tabs__item:nth-child(2){
+
+border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+  font-size: 15px;
+  font-weight: 700;
+}
+.jiudian .el-tabs__header{
+  margin: 0;
+}
+.el-tabs--card > .el-tabs__header .el-tabs__nav{
+  background-color: #dddddd;
+}
+.jiudian .el-tabs__item:hover{
+  color: #000;
+}
+.jiudian .el-tabs__item{
+  font-weight: 800;
+}

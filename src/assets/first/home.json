@@ -1,0 +1,307 @@
+{
+  "data": {
+    "hotword": {
+      "list": [
+        "\u65b0\u8fa3\u9053\u9c7c\u706b\u9505",
+        "\u5c0f\u9f99\u867e",
+        "\u76f2\u4eba\u6309\u6469",
+        "\u7ed8\u753b",
+        "\u821e\u8e48"
+      ],
+      "rid": "b43afd2c67a75e02646caaf0f53e90b1"
+    },
+    "adstatic": [],
+    "is_banned": false,
+    "feed": {
+      "total_num": 665,
+      "exp_ids": "902-1100-3001-25002",
+      "page": 1,
+      "maxPage": 10,
+      "s": "b01c5b843868f1a1571503d26fa21139",
+      "item_num": 12,
+      "page_size": 20,
+      "feed_list": [
+        {
+          "id": "10517707",
+          "title": "\u9038\u4e1d\u98ce\u5c1ayesfashion\u7f8e\u5bb9(\u6d41\u661f\u82b1\u56ed\u5e97)",
+          "price": 187,
+          "area": "\u56de\u9f99\u89c2",
+          "address": "\u5317\u4eac\u5e02\u660c\u5e73\u533a\u56de\u9f99\u89c2\u9f99\u79a7\u82d1\u4e8c\u533a1\u53f7\u697c1-4",
+          "view_num": "1.5\u4e07",
+          "wap_url": "c",
+          "images": [
+            "https:\/\/gss0.baidu.com\/9fo3dSag_xI4khGko9WTAnF6hhy\/lbs\/pic\/item\/6d81800a19d8bc3e13953300898ba61ea9d3455e.jpg",
+            "https:\/\/gss0.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/lbs\/pic\/item\/4034970a304e251f38202e31ac86c9177e3e5320.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C640%2C480%3Bw%3D470%3Bq%3D89%3Bc%3Dnuomi%2C95%2C95\/sign=1b6041179458d109d0acf3f2ec68e08f\/962bd40735fae6cdbdbd890809b30f2442a70f49.jpg"
+          ],
+          "info": {
+            "content": [
+              "\u64c5\u957f\u65e5\u97e9\u70eb\u67d3",
+              "\u53d1\u578b\u5e08\u6d77\u5916\u8fdb\u4fee",
+              "\u6027\u4ef7\u6bd4\u9ad8"
+            ],
+            "content_type": 2,
+            "content_label": "\u63a8\u8350\u7406\u7531"
+          },
+          "ugc_num": 286,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "10920795",
+          "title": "\u5496\u5561\u8336\u81ea\u52a9\u9910\u5385(\u9999\u683c\u91cc\u62c9\u5e97)",
+          "price": 400.5,
+          "area": "\u7d2b\u7af9\u6865",
+          "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u7d2b\u7af9\u9662\u8def29\u53f7\u5317\u4eac\u9999\u683c\u91cc\u62c9\u996d\u5e97\u666f\u96011\u697c",
+          "view_num": "7.6\u5343",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/10920795",
+          "images": [
+            "https:\/\/gss0.baidu.com\/9fo3dSag_xI4khGko9WTAnF6hhy\/lbs\/pic\/item\/6d81800a19d8bc3e13953300898ba61ea9d3455e.jpg",
+            "https:\/\/gss0.baidu.com\/-vo3dSag_xI4khGko9WTAnF6hhy\/lbs\/pic\/item\/4034970a304e251f38202e31ac86c9177e3e5320.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C640%2C480%3Bw%3D470%3Bq%3D89%3Bc%3Dnuomi%2C95%2C95\/sign=1b6041179458d109d0acf3f2ec68e08f\/962bd40735fae6cdbdbd890809b30f2442a70f49.jpg"
+          ],
+          "info": {
+            "content": [
+              "\u51b0\u6dc7\u6dcb",
+              "\u5496\u55b1\u996d",
+              "\u70e4\u7f8a\u6392",
+              "\u9f99\u867e",
+              "\u5496\u55b1",
+              "\u751f\u869d"
+            ],
+            "content_type": 3,
+            "content_label": "\u63a8\u8350\u83dc"
+          },
+          "ugc_num": 19,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": 3100026227,
+          "title": "\u5317\u4eac\u4e0a\u83dc\u901f\u5ea6\u55d6\u55d6\u5feb\u7684\u9910\u5385\u5927\u76d8\u70b9",
+          "view_num": "3.6\u4e07",
+          "wap_url": "https:\/\/m.nuomi.com\/component\/feature-rank\/1.1.3\/feature\/index\/index.html?fr=16&rank_id=3100026227&rank_type=3",
+          "poi_list": [
+            {
+              "poi_id": "3350409",
+              "poi_name": "\u4f19\u4f34\u65e5\u5f0f\u70e4\u8089",
+              "image": "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C3%2C680%2C412%3Bw%3D230%3Bq%3D79\/sign=be5a72b4adc27d1eb169618426e5815d\/9213b07eca80653866b264039edda144ad348242.jpg"
+            },
+            {
+              "poi_id": "3521764",
+              "poi_name": "\u6e29\u91ce\u83dc\u65e5\u5f0f\u706b\u9505",
+              "image": "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C78%2C690%2C418%3Bw%3D470%3Bq%3D79\/sign=34fe70d503d162d991a1385c2cef85db\/f7246b600c338744dd0e116d580fd9f9d62aa0d3.jpg"
+            },
+            {
+              "poi_id": "5128644",
+              "poi_name": "\u867e\u5403\u867e\u6dae(\u540e\u6c99\u5cea\u65d7\u8230\u5e97)",
+              "image": "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C21%2C690%2C418%3Bw%3D230%3Bq%3D79\/sign=835c4f3588b1cb132a266653e0647a7c\/c2cec3fdfc039245617cc5d58294a4c27c1e251a.jpg"
+            }
+          ],
+          "type_label": "\u7cbe\u9009\u699c\u5355",
+          "type": 2,
+          "tpl": 4
+        },
+        {
+          "id": "2400513",
+          "title": "\u4e09\u5ea6\u7a7a\u95f4\u65e5\u97e9\u53d1\u578b\u8bbe\u8ba1(\u671b\u4eac\u5e97)",
+          "price": 165,
+          "area": "\u671b\u4eac",
+          "address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u671b\u4eac\u5357\u6e56\u4e2d\u56ed\u5c0f\u533a214\u53f7\u697c",
+          "view_num": "1.4\u4e07",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/2400513",
+          "images": [
+            "https:\/\/ss0.bdstatic.com\/7LsWdDW5_xN3otebn9fN2DJv\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=c24079a4bdfd5266a77e34129228bb1f\/77c6a7efce1b9d16be71ef2ef8deb48f8d5464ce.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D25%2C43%2C655%2C399%3Bw%3D470%3Bq%3D9\/sign=89c3d46b4c2309f7f320f7524f3c39df\/9e3df8dcd100baa10b9886444d10b912c9fc2e9d.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/314e251f95cad1c8b64b567c763e6709c83d51fc.jpg"
+          ],
+          "info": {
+            "content": [
+              "\u64c5\u957f\u77ed\u53d1\u7cbe\u526a",
+              "\u64c5\u957f\u65e5\u97e9\u70eb\u67d3",
+              "\u6548\u679c\u5f88\u597d"
+            ],
+            "content_type": 2,
+            "content_label": "\u63a8\u8350\u7406\u7531"
+          },
+          "ugc_num": 239,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "71002747",
+          "title": "\u9ea6\u7530\u658b\u897f\u997c\u5c4b",
+          "area": "\u65b0\u5bab",
+          "address": "\u5317\u4eac\u5e02\u4e30\u53f0\u533a\u69d0\u623f\u897f\u8def316\u53f7\u96622\u53f7\u697c",
+          "view_num": "9.1\u5343",
+          "images": [
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C193%2C640%2C388%3Bw%3D470%3Bq%3D79\/sign=14f50ffd9ddda144ce4636f28f87fc93\/6609c93d70cf3bc7871f6602db00baa1cc112ac4.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/bd3eb13533fa828b830b2ab8f41f4134970a5a44.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/b812c8fcc3cec3fd7f54ad2edf88d43f87942706.jpg"
+          ],
+          "info": {
+            "content": [
+              "\u8fd9\u4e2a\u5546\u5bb6\u597d\u8bc4\u8fde\u8fde\u6ca1\u6709\u5dee\u8bc4",
+              "\u5473\u9053\u4e0d\u9519"
+            ],
+            "content_type": 2,
+            "content_label": "\u63a8\u8350\u7406\u7531"
+          },
+          "ugc_num": 47,
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/71002747",
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "87384593",
+          "title": "\u4e8c\u5341\u56db\u5c0f\u65f6\u4e92\u52a8\u5065\u8eab\u5de5\u4f5c\u5ba4(\u9890\u6cc9\u6c47\u5e97)",
+          "area": "\u4e0a\u5730",
+          "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u4e0a\u5730\u4e1c\u8def35\u53f7\u9890\u6cc9\u6c471\u53f7\u516c\u5bd3\u697c715\u5ba4",
+          "view_num": "7.2\u5343",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/87384593",
+          "images": [
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C690%2C460%3Bw%3D690%3Bq%3D89%3Bc%3Dnuomi%2C95%2C95\/sign=83e73409db58ccbf0ff3ef7a24e8900e\/aa18972bd40735fad6f4d30294510fb30f240800.jpg",
+            "https:\/\/ss0.bdstatic.com\/7LsWdDW5_xN3otebn9fN2DJv\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=7f7894f45382b2b7a7ca31c2089de7db\/4d086e061d950a7bdc34423400d162d9f2d3c939.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C690%2C458%3Bw%3D690%3Bq%3D99%3Bc%3Dnuomi%2C95%2C95\/sign=d18b5e790124ab18f459bb7708cacafd\/267f9e2f070828389cdd674bb099a9014d08f199.jpg"
+          ],
+          "info": {
+            "content": [
+              "\u4e00\u5bb6\u96f6\u5dee\u8bc4\u7684\u5546\u5bb6"
+            ],
+            "content_type": 2,
+            "content_label": "\u63a8\u8350\u7406\u7531"
+          },
+          "ugc_num": 14,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "10828391",
+          "title": "\u867e\u5403\u867e\u6dae(\u53cc\u4e95\u5e97)",
+          "price": 68,
+          "area": "\u53cc\u4e95",
+          "address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u4e1c\u4e09\u73af\u4e2d\u8def18\u53f7\u4e1c\u73af\u56fd\u9645\u5927\u53a6\u5e95\u5546",
+          "view_num": "2.0\u4e07",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/10828391",
+          "images": [
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C690%2C460%3Bw%3D690%3Bq%3D89%3Bc%3Dnuomi%2C95%2C95\/sign=83e73409db58ccbf0ff3ef7a24e8900e\/aa18972bd40735fad6f4d30294510fb30f240800.jpg",
+            "https:\/\/ss0.bdstatic.com\/7LsWdDW5_xN3otebn9fN2DJv\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=7f7894f45382b2b7a7ca31c2089de7db\/4d086e061d950a7bdc34423400d162d9f2d3c939.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C690%2C458%3Bw%3D690%3Bq%3D99%3Bc%3Dnuomi%2C95%2C95\/sign=d18b5e790124ab18f459bb7708cacafd\/267f9e2f070828389cdd674bb099a9014d08f199.jpg"
+          ],
+          "info": {
+            "content": [
+              "\u53cc\u4e95\u7f8e\u98df\u9500\u91cf\u7b2c6\u540d",
+              "\u4efd\u91cf\u8db3 \u73af\u5883\u4f18\u7f8e",
+              "\u9002\u5408\u805a\u4f1a\u7684\u597d\u53bb\u5904"
+            ],
+            "content_type": 2,
+            "content_label": "\u63a8\u8350\u7406\u7531"
+          },
+          "ugc_num": 634,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "1555406",
+          "title": "\u5494\u5693\u9020\u578b(\u9b4f\u516c\u6751\u5e97)",
+          "price": 180,
+          "area": "\u9b4f\u516c\u6751",
+          "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u4e2d\u5173\u6751\u5357\u5927\u885711\u53f7\u5149\u5927\u56fd\u4fe1\u5927\u53a6\u4e8c\u5c42\u5de6\u4fa7\u3010\u5730\u94c1\u9b4f\u516c\u6751\u7ad9D\u53e3\u5357\u8fc7\u9a6c\u8def50\u7c73\uff0c\u674e\u5148\u751f\u65c1\u3011",
+          "view_num": "1.1\u4e07",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/1555406",
+          "images": [
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C690%2C460%3Bw%3D690%3Bq%3D89%3Bc%3Dnuomi%2C95%2C95\/sign=83e73409db58ccbf0ff3ef7a24e8900e\/aa18972bd40735fad6f4d30294510fb30f240800.jpg",
+            "https:\/\/ss0.bdstatic.com\/7LsWdDW5_xN3otebn9fN2DJv\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=7f7894f45382b2b7a7ca31c2089de7db\/4d086e061d950a7bdc34423400d162d9f2d3c939.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/bainuo\/crop%3D0%2C0%2C690%2C458%3Bw%3D690%3Bq%3D99%3Bc%3Dnuomi%2C95%2C95\/sign=d18b5e790124ab18f459bb7708cacafd\/267f9e2f070828389cdd674bb099a9014d08f199.jpg"
+          ],
+          "ugc_num": 112,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "2078910",
+          "title": "\u8bfa\u5361\u6b27\u86cb\u7cd5(\u897f\u76f4\u95e8\u5e97)",
+          "price": 83,
+          "area": "\u897f\u76f4\u95e8",
+          "address": "\u5317\u4eac\u5e02\u897f\u57ce\u533a\u52a8\u7269\u56ed\u534e\u5802\u5546\u573a\u5357\u95e8\u4e1c30\u7c73",
+          "view_num": "1.2\u4e07",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/2078910",
+          "images": [
+            "https:\/\/ss0.bdstatic.com\/7LsWdDW5_xN3otebn9fN2DJv\/bainuo\/wh%3D690%2C460%3Bq%3D90%3Bc%3Dnuomi%2C95%2C95\/sign=7e5310289482d158bbd751b7b93a35ec\/c8ea15ce36d3d539195a99053287e950342ab095.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/a8ec8a13632762d00e47a1b5a3ec08fa513dc6bb.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/377adab44aed2e7356d983268401a18b87d6fa8c.jpg"
+          ],
+          "ugc_num": 136,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "50355048",
+          "title": "\u7ef4\u601d\u5ba2\u86cb\u7cd5",
+          "price": 91,
+          "area": "\u897f\u76f4\u95e8",
+          "address": "\u5317\u4eac\u5e02\u897f\u57ce\u533a\u8f66\u516c\u5e84\u5927\u8857\u4e94\u680b\u5927\u697cE\u5ea7\u5e95\u5546",
+          "view_num": "8.3\u5343",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/50355048",
+          "images": [
+            "https:\/\/gss0.baidu.com\/9fo3dSag_xI4khGko9WTAnF6hhy\/lbs\/pic\/item\/242dd42a2834349be9b305b4c5ea15ce36d3be4e.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/21a4462309f79052e8c7b6ce05f3d7ca7acbd562.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/a5c27d1ed21b0ef41dc668aed4c451da81cb3e17.jpg"
+          ],
+          "ugc_num": 31,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "5520800",
+          "title": "\u5494\u5693\u9020\u578b(\u79d1\u5927\u5e97)",
+          "price": 116,
+          "area": "\u4e94\u9053\u53e3",
+          "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u5b66\u9662\u8def\u5fd7\u65b0\u8def41\u53f7\u68a6\u6eaa\u5bbe\u9986\u4e1c100\u7c73",
+          "view_num": "1.0\u4e07",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/5520800",
+          "images": [
+            "https:\/\/gss0.baidu.com\/9fo3dSag_xI4khGko9WTAnF6hhy\/lbs\/pic\/item\/242dd42a2834349be9b305b4c5ea15ce36d3be4e.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/21a4462309f79052e8c7b6ce05f3d7ca7acbd562.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/a5c27d1ed21b0ef41dc668aed4c451da81cb3e17.jpg"
+          ],
+          "ugc_num": 75,
+          "type": 1,
+          "tpl": 2
+        },
+        {
+          "id": "7398162",
+          "title": "\u4e1c\u6765\u987a(\u6210\u5bff\u5bfa\u8def\u5e97)",
+          "price": 89,
+          "area": "\u6210\u5bff\u5bfa",
+          "address": "\u5317\u4eac\u5e02\u4e30\u53f0\u533a\u6210\u5bff\u5bfa\u8def131\u53f7(\u6210\u5bff\u5bfa\u5730\u94c1c\u53e3\u51fa\u5f80\u5357100\u7c73\u8def\u897f)",
+          "view_num": "8.6\u5343",
+          "wap_url": "https:\/\/m.nuomi.com\/mshop\/7398162",
+          "images": [
+            "https:\/\/gss0.baidu.com\/9fo3dSag_xI4khGko9WTAnF6hhy\/lbs\/pic\/item\/242dd42a2834349be9b305b4c5ea15ce36d3be4e.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/21a4462309f79052e8c7b6ce05f3d7ca7acbd562.jpg",
+            "https:\/\/gss0.baidu.com\/-4o3dSag_xI4khGko9WTAnF6hhy\/nuomi\/pic\/item\/a5c27d1ed21b0ef41dc668aed4c451da81cb3e17.jpg"
+          ],
+          "info": {
+            "content": [
+              "\u9002\u5408\u805a\u4f1a\u7684\u597d\u53bb\u5904"
+            ],
+            "content_type": 2,
+            "content_label": "\u63a8\u8350\u7406\u7531"
+          },
+          "ugc_num": 36,
+          "type": 1,
+          "tpl": 2
+        }
+      ]
+    },
+    "t10": [],
+    "float": null,
+    "popup": null,
+    "activity_float": {
+      "has_activity": 0
+    },
+    "hit": "",
+    "logInfoExt": []
+  }
+}

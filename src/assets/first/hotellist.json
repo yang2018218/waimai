@@ -1,0 +1,41 @@
+{
+  "hotel": {
+    "hotel_img": [
+      {
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569673554258&di=3059a99b62962390ca3a4475b8a1853a&imgtype=0&src=http%3A%2F%2Fimg.chinapp.com%2Fuploadfile%2F2014%2F0624%2F20140624100732239.png",
+        "title": "高端酒店"
+      },
+      {
+        "img": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=1f62403fa04bd11304cdb0346294c332/30adcbef76094b367b58bfa1aecc7cd98c109db0.jpg",
+        "title": "特惠酒店"
+      },
+      {
+        "img": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=e90042673fd12f2eca05a9627fc3d5ff/b03533fa828ba61e3a3feb9f4834970a314e59a8.jpg",
+        "title": "民宿客栈"
+      },
+      {
+        "img": "https://imgsa.baidu.com/baike/pic/item/562c11dfa9ec8a1392af52f4fe03918fa0ecc069.jpg",
+        "title": "差旅酒店"
+      },
+      {
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569673904615&di=507ffc0e84ad0d51ea683be005f7f03c&imgtype=0&src=http%3A%2F%2Fwww.duoziwang.com%2Fuploads%2Fc160224%2F145632G3O20-4E06.jpg",
+        "title": "特价酒店"
+      },
+      {
+        "img": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2394871146,869533564&fm=26&gp=0.jpg",
+        "title": "优选酒店"
+      },
+      {
+        "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2508462544,1896473375&fm=26&gp=0.jpg",
+        "title": "差旅酒店"
+      },
+      {
+        "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2237686218,936761951&fm=26&gp=0.jpg",
+        "title": "精品酒店"
+      }
+    ]
+
+
+  }
+
+}
